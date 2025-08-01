@@ -16,8 +16,5 @@ Python과 Pygame을 사용해 만든 2D 슈팅 게임입니다!
 2. `pip install pygame`
 3. `final_stage_game.py` 실행
 
-## 스크린샷
-(직접 추가 가능!)
-
 ## 제작자
 madunim
